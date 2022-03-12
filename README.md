@@ -1,4 +1,4 @@
-### Olá! Eu sou o Enzo de Oliveira Rodrigues
+### Olá! Eu sou o Enzo de Oliveira Rodrigues, estudante na área da tecnologia da informação ⌨️
 
 <div align="center">
   <a href="https://github.com/Rodriguessz">
