@@ -1,4 +1,4 @@
-### Olá! Eu sou o Enzo de Oliveira Rodrigues, estudante na área da tecnologia da informação! 
+### Olá! Eu sou o Enzo de Oliveira Rodrigues, atualmente me aprofundando em JavaScript! 
 <div align="center">
  <a href="https://github.com/Rodriguessz">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodriguessz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
