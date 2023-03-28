@@ -10,12 +10,13 @@
 </div> <!--End-Status!-->
 <br>
  
-
+##
 <div align="center">
 <div style="display: inline_block"><br>
 
 <img align="left" height="250" alt="coding-space" src="CODE.gif">
-<h3 align="center">Technologies I'm currently learning <3</h3>
+<h2 align="center">Technologies I'm currently learning </h2>
+
 
 <img align="center" alt="Enzo-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 
@@ -29,8 +30,12 @@
  
 </div>
 
+<!--Contatos!-->
 
-<h3 align="center"> Contacts </h3>
+
+##
+<h2 align="center"> Contacts </h2> 
+
 
  <a href="https://instagram.com/rodriguesszz_" target="_blank">
 
