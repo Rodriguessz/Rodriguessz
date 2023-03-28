@@ -16,7 +16,7 @@
 <div style="display: inline_block"><br>
 
 <img align="left" height="250"  alt="coding-space" src="CODE.gif">
-<h1 align="center">Technologies I'm currently learning </h1>
+<h1 align="center">Technologies I'm currently learning ↷ </h1>
 
 
 <img align="center" alt="Enzo-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
@@ -35,7 +35,7 @@
 
 
 
-<h1 align="center"> Contacts </h1> 
+<h1 align="center"> Contacts ↷ </h1> 
 
  <!--Email!-->
   <a href = "mailto:enzo.orodrigues03@gmail.com">
