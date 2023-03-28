@@ -15,7 +15,7 @@
 <div align="center">
 <div style="display: inline_block"><br>
 
-<img align="left" height="250"  alt="coding-space" src="CODE.gif">
+<img align="left" height="250"  alt="coding-space" src="code-space.gif">
 <h2 align="center">Technologies I'm currently learning ↷ </h2>
 
 
