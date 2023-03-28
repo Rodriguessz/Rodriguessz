@@ -15,7 +15,7 @@
  
 <div style="display: inline_block">
 <br>
-<img align="left" height="250" alt="coding-time" src="code.gif">
+<img align="left" height="250" alt="coding-space" src="CODE.gif">
 <h3 align="center">Technologies I'm currently learning <3</h3>
 <img align="center" alt="Enzo-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img align="center" alt="Enzo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
