@@ -1,4 +1,4 @@
-### Olá! Eu sou o Enzo de Oliveira Rodrigues, atualmente me aprofundando em JavaScript! 
+### Olá Dev! Me chamo Enzo  Rodrigues, atualmente me aprofundando em JavaScript! 
 
 ##
  <!--Status!-->
@@ -15,7 +15,7 @@
 <div style="display: inline_block"><br>
 
 <img align="left" height="250" alt="coding-space" src="CODE.gif">
-<h2 align="center">Technologies I'm currently learning </h2>
+<h1 align="center">Technologies I'm currently learning  </h1>
 
 
 <img align="center" alt="Enzo-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
@@ -34,32 +34,44 @@
 
 
 
-<h2 align="center"> Contacts </h2> 
+<h1 align="center"> Contacts </h1> 
 
+ <!--Email!-->
+  <a href = "mailto:enzo.orodrigues03@gmail.com">
 
- <a href="https://instagram.com/rodriguesszz_" target="_blank">
-
- <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
  </a>
+
+<!--LinkedIn!-->
+ 
+  <a href="https://www.linkedin.com/in/enzo-rodrigues-b9bb33232/" target="_blank">
+
+ <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ 
+ </a> 
+ 
+ 
+ <!--Discord!-->
  
  <a href="https://discord.gg/4xwpXUxp" target="_blank">
 
  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 
  </a> 
+ 
+ <!--Github!-->
+ 
+ <a href="https://instagram.com/rodriguesszz_" target="_blank">
 
- <a href = "mailto:enzo.orodrigues03@gmail.com">
-
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
 
  </a>
-
- <a href="https://www.linkedin.com/in/enzo-rodrigues-b9bb33232/" target="_blank">
-
- <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  
- </a> 
+ 
+
+
+
 
 
 
