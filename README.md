@@ -9,7 +9,7 @@
 
 <div align="center">
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-space" src="code-space.gif">
+    <img align="left" height="200" width="200" alt="coding-space" src="code-space.gif">
     <h2>Technologies I'm currently learning:</h2>
     <img align="center" alt="Enzo-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
     <img align="center" alt="Enzo-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
