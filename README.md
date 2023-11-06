@@ -1,8 +1,8 @@
 ### Hello Devs! My name is Enzo Rodrigues, currently diving deeper into JavaScript!
 
 <div>
-  <img height="160em" src="https://github-readme-stats-one-bice.vercel.app/api?username=rodriguessz&theme=omni&show_icons=true&count_private=true"/>
-  <img height="160em" align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rodriguessz&theme=omni&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats-one-bice.vercel.app/api?username=rodriguessz&theme=midnight-purple&show_icons=true&count_private=true"/>
+  <img height="160em" align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rodriguessz&theme=midnight-purple&layout=compact"/>
 </div>
 
 <br>
