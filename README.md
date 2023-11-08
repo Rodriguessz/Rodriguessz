@@ -2,7 +2,8 @@
 
 <div>
   <img height="160em" src="https://github-readme-stats-one-bice.vercel.app/api?username=rodriguessz&theme=midnight-purple&show_icons=true&count_private=true"/>
-  <img height="160em" align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rodriguessz&theme=midnight-purple&layout=compact"/>
+  <img height="160em" align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rodriguessz&theme=midnight-purple&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=20"/>
+
 </div>
 
 <br>
