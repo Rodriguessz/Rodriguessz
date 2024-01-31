@@ -13,7 +13,7 @@
 
 <div align="center">
   <div style="display: inline_block"><br>
-    <img align="left" height="215" width="215" alt="coding-space" src="code-space.gif">
+<!--     <img align="left" height="215" width="215" alt="coding-space" src="code-space.gif"> -->
     <h2>Technologies I'm currently learning:</h2>
     <p align="center">
     <a href="https://skillicons.dev">
