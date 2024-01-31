@@ -1,8 +1,11 @@
-### Hello Devs! My name is Enzo Rodrigues, currently diving deeper into JavaScript!
+## Hey Devs! My name is Enzo Rodrigues!
 
-<div>
-  <img height="160em" src="https://github-readme-stats-one-bice.vercel.app/api?username=rodriguessz&theme=gotham&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/> 
-  <img height="160em" align="right" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rodriguessz&theme=gotham&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=20"/>
+### I am a Web developer delving into the JavaScript ecosystem.
+ 
+<div> 
+ 
+  <img  src="https://github-readme-stats.vercel.app/api?username=rodriguessz&theme=blueberry&count_private=true&hide_border=true&line_height=20"/> 
+  <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguessz&layout=compact&theme=blueberry&count_private=true&hide_border=true"/>
 
 </div>
 
@@ -12,11 +15,12 @@
   <div style="display: inline_block"><br>
     <img align="left" height="215" width="215" alt="coding-space" src="code-space.gif">
     <h2>Technologies I'm currently learning:</h2>
-    <img align="center" alt="Enzo-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
-    <img align="center" alt="Enzo-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-    <img align="center" alt="Enzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Enzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Enzo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    <p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,mysql,js,html,css,git" />
+  </a>
+</p>
+   
   </div>
 
   <h2>Contacts:</h2>
