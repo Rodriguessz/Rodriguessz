@@ -17,7 +17,7 @@
     <h2>Technologies I'm currently learning:</h2>
     <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,react,mysql,js,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,mysql,prisma,js,html,css,git" />
   </a>
 </p>
    
