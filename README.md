@@ -14,7 +14,7 @@
 <div align="center">
   <div style="display: inline_block"><br>
     <img align="left" height="215" width="215" alt="coding-space" src="code-space.gif">
-    <h2>Technologies I'm currently learning:</h2>
+    <h3>Technologies I'm currently learning:</h3>
     <p align="center">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,react,mysql,prisma,js,html,css,git" />
@@ -23,7 +23,7 @@
    
   </div>
 
-  <h2>Contacts:</h2>
+  <h3>Contacts:</h3>
   <a href="mailto:enzo.orodrigues03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
