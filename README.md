@@ -1,4 +1,4 @@
-## Hey Devs! My name is Enzo Rodriguesssssss!
+## Hey Devs! My name is Enzo Rodrigues!
 
 ### I am a Web developer delving into the JavaScript ecosystem.
  
