@@ -1,5 +1,12 @@
+<div>
+ <img align="right" height="240" width="240" alt="coding-space" src="code-space.gif">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=8CFFB8&random=false&width=500&lines=Hey+Devs%2C+my+name+is+Enzo+Rodrigues!;I'm+a+junior+Fullstack+developer!)](https://git.io/typing-svg)
-##
+</div>
+
+
+
+
 
 <div> 
  
