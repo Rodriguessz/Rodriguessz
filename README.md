@@ -10,7 +10,7 @@
   <h3> My Current Tech Stack: &nbsp ↷</h3>
   
    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind,php,laravel,mysql,js,html,css,git,github" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind,php,laravel,mysql,js,html,css" />
    </a>
 
 <div>
