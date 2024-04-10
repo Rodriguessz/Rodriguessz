@@ -7,23 +7,21 @@
 
 <div>
   
-  <h3>My current Stack 🡫</h3>
+  <h3> My Current Tech Stack: &nbsp ↷</h3>
   
    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,react,mysql,php,js,html,css,git" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind,php,laravel,mysql,js,html,css,git,github" />
    </a>
 
 <div>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 
  <div> 
+
+  <h3>Github Stats: &nbsp ↷</h3>
  
    <img  src="https://github-readme-stats.vercel.app/api?username=rodriguessz&theme=blueberry&count_private=true&hide_border=true&line_height=20"/> 
    <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguessz&layout=compact&theme=blueberry&count_private=true&hide_border=true"/>
@@ -31,6 +29,7 @@
  </div>
 
 <br>
+
 
 ##
 <div align="center">
