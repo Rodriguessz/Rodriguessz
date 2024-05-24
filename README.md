@@ -1,8 +1,7 @@
 <br>
   
 <div>
-   <img align="right" height="250px" width="250px" alt="coding-space" src="Octocat.gif">
-  
+   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=8CFFB8&random=false&width=500&lines=Hey+Devs%2C+my+name+is+Enzo+Rodrigues!;I'm+a+junior+Fullstack+developer!)](https://git.io/typing-svg)
 
 </div>
