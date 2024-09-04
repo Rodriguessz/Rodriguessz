@@ -11,7 +11,7 @@
   <h3> My Current Tech Stack: &nbsp ▼ </h3>
   
    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,react,js,php,laravel,mysql,linux" />
+      <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,php,laravel,mysql,linux" />
    </a>
    
    <br>
