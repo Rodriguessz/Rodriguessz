@@ -29,7 +29,7 @@
   <h3>Github Stats: &nbsp ▼ </h3>
  
    <img  src="https://github-readme-stats.vercel.app/api?username=rodriguessz&theme=blueberry&count_private=true&hide_border=true&line_height=20"/> 
-   <img height="165em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguessz&layout=compact&theme=blueberry&count_private=true&hide_border=true"/>
+   <img height="165em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguessz&layout=compact&theme=blueberry&count_private=true&hide_border=true&include_all_commits=true"/>
 
  </div>
 
