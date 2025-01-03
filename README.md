@@ -24,7 +24,7 @@ Committed to continuous learning, I actively stay updated on new market technolo
   <h3> My stacks: &nbsp ▼ </h3>
   
    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,typescript,html,css,nodejs,express,react,styledcomponents,sass,tailwind,vite,jest,docker,git,postman,figma" />
+      <img src="https://skillicons.dev/icons?i=js,typescript,html,css,nodejs,express,php,laravel,react,styledcomponents,sass,tailwind,vite,jest,docker,git,postman,figma" />
    </a>
    
    <br>
