@@ -1,8 +1,12 @@
 <br>
   
 <div>
-   
-  <h3> About me ▼ </h3>
+
+  <div>
+     <h3> <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg" width="28px" /> &nbsp About me </h3>
+    
+  </div>
+ 
 
   <p> I am a software developer and Software Engineering student. Currently, I work as a collaborator at Worklab Sistemas e Tecnologia, where I am responsible for automating internal processes and creating new tools using React and Laravel as the main technologies.
 
@@ -34,7 +38,7 @@ Committed to continuous learning, I actively stay updated on new market technolo
 ##
  <div> 
 
-  <h3>Github Stats: &nbsp ▼ </h3>
+  <h3><img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" height="22px">  &nbsp Github Stats:  &nbsp ▼  </h3>
  
    <img  src="https://github-readme-stats.vercel.app/api?username=rodriguessz&theme=blueberry&count_private=true&hide_border=true&line_height=20"/> 
    <img height="165em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguessz&layout=compact&theme=blueberry&count_private=true&hide_border=true&include_all_commits=true"/>
