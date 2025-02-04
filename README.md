@@ -7,7 +7,7 @@
   </div>
  
 
-  <p> I am a software developer and Software Engineering student. Currently, I work as a collaborator at Worklab Sistemas e Tecnologia, where I am responsible for automating internal processes and creating new tools using React and Laravel as the main technologies.
+  <p> I am a software developer and Software Engineering student. Currently, I work as a collaborator at Alstom, where I am responsible for checking and validate tracking softwares.
 
 Committed to continuous learning, I actively stay updated on new market technologies and apply them to personal projects, enhancing my skills and expanding my knowledge.</p>
 </div>
