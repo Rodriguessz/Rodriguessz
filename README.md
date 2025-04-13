@@ -9,7 +9,7 @@
   rodriguessz@GitHub
   -----------------
   Name: Enzo Rodrigues
-  OS: Mint Linux x86_64
+  OS: Manjaro Linux x86_64
   Languages: ["Python", "Java", "JavaScript", "Kotlin"]
   Intrests: ["CyberSecurity", "Mobile", "Web", "Linux"]  
   Uptime: 21 Years
