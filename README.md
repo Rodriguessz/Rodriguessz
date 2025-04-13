@@ -3,7 +3,7 @@
 └> mefetch
 ```
 
-<div style="display:block;text-align:left"><img align="left" src="https://github.com/user-attachments/assets/fdbe0a60-80b4-4bb5-9cac-3f11eedea313" border="0" style="width:156px;">
+<div style="display:block;text-align:left"><img align="left" src="https://github.com/user-attachments/assets/afa991f5-7f54-4b9e-bdfd-05de35bfe0e5" border="0" style="width:156px;">
   
   ```css
   rodriguessz@GitHub
