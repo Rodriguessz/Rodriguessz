@@ -10,7 +10,7 @@
   -----------------
   Name: Enzo Rodrigues
   OS: Arch Linux x86_64
-  Languages: ["Python", "Java", "JavaScript", "Kotlin"]
+  Languages: ["Python", "Java", "JavaScript"]
   Intrests: ["CyberSecurity", "Mobile", "Web", "Linux"]  
   Uptime: 21 Years
   ```
