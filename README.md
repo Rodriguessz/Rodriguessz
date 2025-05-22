@@ -10,8 +10,8 @@
   -----------------
   Name: Enzo Rodrigues
   OS: Arch Linux x86_64
-  Languages: ["Java", "Spring Boot", "Node.js", "Next.js", "Typescript"]
-  Tools: ["Linux","Docker", "AWS", "Git"]  
+  Languages: ["Java", "Javascript", "Python", "Next.js", "Typescript"]
+  Libs & Frameworks: ["Spring framework" , "Spring Boot", "Fastify", "Next.js"]  
   Uptime: 21 Years
   ```
 </div>
