@@ -1,8 +1,11 @@
 
 <h1 align="center">
-  <img src="link-do-seu-memoji.png" width="50" height="50" style="border-radius: 50%;">
   Hello, I'm Enzo Rodrigues
 </h1>
+
+<p align="center">
+  <em>Software Engineer • Tech Intern at Alstom  • Tech Enthusiast</em>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -14,7 +17,7 @@
 
 <p align="center">
   I'm passionate about technology, education, and creativity.  
-  Here you’ll find projects, tutorials, and my experiments with AI, Java, Cloud, and more :)
+  Here you’ll find projects,and my experiments with Java, Cloud and more!
 </p>
 
 <p align="center">
