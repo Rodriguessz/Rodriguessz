@@ -32,8 +32,8 @@
   </a>
 </p>
 
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=rodriguessz&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
-  <img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguessz&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+  <!--<img  align="left" src="https://github-readme-stats.vercel.app/api?username=rodriguessz&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+  <img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguessz&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />!-->
 
 <div>
    <picture>
