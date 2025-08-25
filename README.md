@@ -1,20 +1,33 @@
-```css
-┌[zuzika@git]-(~)
-└> mefetch
-```
 
-<div style="display:block;text-align:left"><img align="left" src="https://github.com/user-attachments/assets/b7aba916-623b-4624-9a87-c9f5f26b6b3a" border="0" style="width:156px;">
-  
-  ```css
-  rodriguessz@GitHub
-  -----------------
-  Name: Enzo Rodrigues
-  OS: Arch Linux x86_64
-  Languages: ["Java", "Javascript", "Typescript", "Pyhton"]
-  Libs & Frameworks: ["Spring Boot", "Fastify", "Express.js", "Next.js"]  
-  Uptime: 21 Years
-  ```
-</div>
+<h1 align="center">
+  <img src="link-do-seu-memoji.png" width="50" height="50" style="border-radius: 50%;">
+  Hello, I'm Enzo Rodrigues
+</h1>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,nodejs,nextjs,react,python,mysql,postgres,mongodb,linux,aws,docker" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  I'm passionate about technology, education, and creativity.  
+  Here you’ll find projects, tutorials, and my experiments with AI, Java, Cloud, and more :)
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eorodrigues/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://enzorodrigues.dev.br/">
+    <img src="https://img.shields.io/badge/-Website-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
+  </a>
+  <a href="mailto:enzorodriguesdev@gmail.com">
+    <img src="https://img.shields.io/badge/-enzorodriguesdev@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
 
 <div>
    <picture>
